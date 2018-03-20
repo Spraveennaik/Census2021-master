@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922062957569",
+    "firebase_url": "https://census-2018.firebaseio.com",
+    "project_id": "census-2018",
+    "storage_bucket": "census-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922062957569:android:399d57b2e3f63a1e",
+        "android_client_info": {
+          "package_name": "com.android.example.census2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922062957569-oqiqq2sbb2c5ehftc2kq797kle9fcpt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.example.census2021",
+            "certificate_hash": "bdcf255a9bd1ebf36fa79d4ec2211c9a7781b2f2"
+          }
+        },
+        {
+          "client_id": "922062957569-47h0p79r3agjhars64hs0hmeg3cujvat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFjsIGxZwIl05ifH07iQZ3hI4U52RBj6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922062957569-47h0p79r3agjhars64hs0hmeg3cujvat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
